@@ -8,4 +8,4 @@ const instance = axios.create({
     },
 })
 
-export default instance;
+export default instance; //FEEDBACK : 밖에서 부를 때 axios로 불러도 되는 이유?
