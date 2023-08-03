@@ -1,0 +1,1 @@
+//Styled Component를 활용한 footer만들기 생략
